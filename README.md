@@ -1,0 +1,1 @@
+Repository for the article titled "Ci sono inesattezze nelle standardizzazioni italiane di WISC-IV e WPPSI-IV? (ovvero perché le case editrici dovrebbero essere trasparenti sui dati normativi)" and possible related materials. Updated pdf is stored in this repository
